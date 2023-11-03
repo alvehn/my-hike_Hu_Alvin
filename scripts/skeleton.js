@@ -28,3 +28,4 @@ function loadSkeleton() {
     });
 }
 loadSkeleton(); //invoke the function
+
